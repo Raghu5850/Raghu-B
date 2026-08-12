@@ -20,6 +20,7 @@ healthcare domain and currently transitioning into Data Science.
 - Data Base - T20 World Cup Data Analysis - https://github.com/Raghu5850/T20worldcup
 - Power BI - Superstore_Offline_Data - https://github.com/Raghu5850/Superstore_offline-Data-Power-BI
 - Python - Bank Transaction Simulator -https://github.com/Raghu5850/Bank-Transaction-Simulator
+- Machine Learning - Satellite Image Data Analysis Using NumPy - https://github.com/Raghu5850/Satellite-Image-Data-Analysis-Using-NumPy
 
 ### 🎓 Certification
 - Data Scientist – From Top Mentor institute
