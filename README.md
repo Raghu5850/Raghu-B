@@ -16,9 +16,8 @@ healthcare domain and currently transitioning into Data Science.
 - Advance Excel
 
 ### 📂 Projects
-- Employee Salary Prediction
-- Personal Expense Tracker
-- T20 World Cup Data Analysis
+- Excel - Brightness_Termination_Data_Analysis - https://github.com/Raghu5850/Brightness_Termination_Data
+- Data Base - T20 World Cup Data Analysis - https://github.com/Raghu5850/T20worldcup
 
 ### 🎓 Certification
 - Data Scientist – From Top Mentor institute
@@ -26,6 +25,8 @@ healthcare domain and currently transitioning into Data Science.
 - Python Specialist
 - Tubule Specialist
 - Data Analyst Specialist
+
+
 
 
 ### 📫 Connect with me
