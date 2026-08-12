@@ -18,6 +18,7 @@ healthcare domain and currently transitioning into Data Science.
 ### 📂 Projects
 - Excel - Brightness_Termination_Data_Analysis - https://github.com/Raghu5850/Brightness_Termination_Data
 - Data Base - T20 World Cup Data Analysis - https://github.com/Raghu5850/T20worldcup
+- Power BI - Superstore_Offline_Data - https://github.com/Raghu5850/Superstore_offline-Data-Power-BI
 
 ### 🎓 Certification
 - Data Scientist – From Top Mentor institute
