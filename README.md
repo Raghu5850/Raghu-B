@@ -32,4 +32,5 @@ healthcare domain and currently transitioning into Data Science.
 
 
 ### 📫 Connect with me
-- LinkedIn: Your LinkedIn URL
+- LinkedIn: www.linkedin.com/in/raghu-b-663455163
+- Email : raghub3798@gmail.com
